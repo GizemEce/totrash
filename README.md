@@ -54,13 +54,13 @@ npm start
 ---
 ### Run Tests:
  1. Run Functional UI Tests (Cypress)
-    cd client
-    npm run cypress
+   - cd client
+   - npm run cypress
  2. Run Visual Snapshot Tests (Percy + Cypress)	
-    npm run test:visual
+   - npm run test:visual
  3. Run API Tests (Supertest + Jest)
-    cd server
-    npm test
+    -cd server
+   - npm test
 
 
 
