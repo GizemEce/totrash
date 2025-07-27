@@ -37,6 +37,7 @@ git clone https://github.com/GizemEce/totrash.git
 cd totrash
 
 At the root (backend + Percy):
+cd backend
 npm install
 
 Then inside the React frontend (client/):
