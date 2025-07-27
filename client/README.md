@@ -60,4 +60,4 @@ npm start
    - npm run test:visual
  3. Run API Tests (Supertest + Jest)
    - cd server
-   - npm test
+   - npm testkk
