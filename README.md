@@ -17,15 +17,16 @@ A full-stack Todo app built with **React** and **Node.js**, featuring login func
 ---
 
 ## 📁 Project Structure
+```
 rem-todo/
-├── client/ # React frontend
-│ ├── src/components/ # UI components
-│ └── cypress/ # Cypress test files
-├── server/ or index.js # Node/Express backend
-├── .env # Percy token (for visual tests)
-├── package.json # Root-level scripts and dependencies
-├──.gitignore
-
+├── client/               # React frontend
+│   ├── src/components/   # UI components
+│   └── cypress/          # Cypress test files
+├── server/ or index.js   # Node/Express backend
+├── .env                  # Percy token (excluded from Git)
+├── package.json          # Root-level scripts and dependencies
+├── .gitignore
+```
 ---
 
 ## 🛠️ Setup Instructions
