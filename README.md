@@ -23,7 +23,6 @@ rem-todo/
 │   ├── src/components/   # UI components
 │   └── cypress/          # Cypress test files
 ├── server/ or index.js   # Node/Express backend
-├── .env                  # Percy token (excluded from Git)
 ├── package.json          # Root-level scripts and dependencies
 ├── .gitignore
 ```
@@ -33,7 +32,7 @@ rem-todo/
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/yourusername/rem-todo.git
 cd rem-todo
 
@@ -51,7 +50,7 @@ node index.js
 Start the frontend:
 cd client
 npm start
-
+```
 ---
 ### Run Tests:
  1. Run Functional UI Tests (Cypress)
