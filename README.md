@@ -5,7 +5,8 @@ A full-stack Todo app built with **React** and **Node.js**, featuring login func
 ---
 
 ## 🚀 Features
-
+- 🔐 Login with email and password (mock auth)  
+  _Credentials: `test@rem.com` / `123456`_
 - 🔐 Login with email and password (mock auth)
 - ➕ Add todo items
 - 📝 Edit todo items
