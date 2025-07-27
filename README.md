@@ -33,7 +33,7 @@ rem-todo/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/rem-todo.git
+git clone [https://github.com/yourusername/rem-todo.git](https://github.com/GizemEce/totrash.git)
 cd rem-todo
 
 At the root (backend + Percy):
