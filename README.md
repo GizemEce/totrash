@@ -34,7 +34,7 @@ rem-todo/
 
 ```
 git clone https://github.com/GizemEce/totrash.git
-cd rem-todo
+cd totrash
 
 At the root (backend + Percy):
 npm install
@@ -45,7 +45,7 @@ npm install
 
 Start the backend:
 cd server
-node index.js
+npm start
 
 Start the frontend:
 cd client
@@ -59,7 +59,7 @@ npm start
  2. Run Visual Snapshot Tests (Percy + Cypress)	
    - npm run test:visual
  3. Run API Tests (Supertest + Jest)
-    -cd server
+   - cd server
    - npm test
 
 
